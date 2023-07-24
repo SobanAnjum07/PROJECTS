@@ -1,0 +1,1 @@
+This project is a simple web apllication that shows the weather information and a brief description with an mage of the current temeratures.
