@@ -1,0 +1,2 @@
+This is a baisc ToDo List using my basic knowledge of css, html, js, nodejs, expressjs and ejs.
+This is just for the beginners and hence I have added all the comments needed for the better understanding of theproject.
